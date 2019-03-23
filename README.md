@@ -80,6 +80,8 @@ Catatan: Tidak boleh menggunakan crontab.
     - Per 30 menit membuat folder /[dd:MM:yyyy-hh:mm]
     - Per menit memasukkan log#.log ke dalam folder tersebut
     ‘#’ : increment per menit. Mulai dari 1
+- Source code: [disini](/soal5/soal5.c)
 
 	b. Buatlah program c untuk menghentikan program di atas.
     NB: Dilarang menggunakan crontab dan tidak memakai argumen ketika menjalankan program.
+- Source code: [disini](/soal5/soal5_kill.c)
