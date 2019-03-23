@@ -63,7 +63,7 @@ Catatan: Tidak boleh menggunakan crontab.
     - Contoh nama file : makan_sehat1.txt, makan_sehat2.txt, dst
 	###Jawaban:
 - Source code: [disini](/soal4/soal4.c)
-- Langkah - langkah
+- Langkah - langkah:
 	1. Buatlah program C nya terlebih dahulu
 	2. Lalu compile file C nya dengan mengetikkan `gcc -o ~/soal4/soal4 ~/soal4/soal4.c`
 	3. Setelah itu buat folder makanan dengan mengetikkan `mkdir ~/Documents/makanan`
@@ -80,8 +80,27 @@ Catatan: Tidak boleh menggunakan crontab.
     - Per 30 menit membuat folder /[dd:MM:yyyy-hh:mm]
     - Per menit memasukkan log#.log ke dalam folder tersebut
     ‘#’ : increment per menit. Mulai dari 1
-- Source code: [disini](/soal5/soal5.c)
 
 	b. Buatlah program c untuk menghentikan program di atas.
     NB: Dilarang menggunakan crontab dan tidak memakai argumen ketika menjalankan program.
+
+
+###Jawaban:
+a.
+- Source code: [disini](/soal5/soal5.c)
+- Langkah - langkah:
+	1. Buatlah program C nya terlebih dahulu
+	2. Lalu compile file C nya dengan mengetikkan `gcc -o ~/soal5/soal5 ~/soal5/soal5.c`
+	3. Lalu jalankan programnya dengan mengetikkan `~/soal5/soal5`
+	4. setelah itu Per 30 menit membuat folder /[dd:MM:yyyy-hh:mm]
+	5. Per menit memasukkan log#.log ke dalam folder tersebut : increment per menit. Mulai dari 1
+
+b.
 - Source code: [disini](/soal5/soal5_kill.c)
+- Langkah - langkah:
+	1. Buatlah program C nya terlebih dahulu
+	2. Sesuaikan nama running program yang mau dikill didalam soal5_kill
+	3. Lalu compile file C nya dengan mengetikkan `gcc -o ~/soal5_kill/soal5_kill ~/soal5_kill/soal5_kill.c
+	4. Lalu jalankan programnya dengan mengetikkan `~/soal5/soal5`
+	5. maka program akan dikill dengan sendirinya ketika soal5_kill.c dijalankan
+	
