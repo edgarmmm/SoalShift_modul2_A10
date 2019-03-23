@@ -84,6 +84,7 @@ Catatan: Tidak boleh menggunakan crontab.
 	b. Buatlah program c untuk menghentikan program di atas.
     NB: Dilarang menggunakan crontab dan tidak memakai argumen ketika menjalankan program.
 	###Jawaban:
+	a.
 - Source code: [disini](/soal5/soal5.c)
 - Langkah - langkah:
 	1. Buatlah program C nya terlebih dahulu
@@ -92,7 +93,7 @@ Catatan: Tidak boleh menggunakan crontab.
 	4. setelah itu Per 30 menit membuat folder /[dd:MM:yyyy-hh:mm]
 	5. Per menit memasukkan log#.log ke dalam folder tersebut : increment per menit. Mulai dari 1
 
-b.
+	b.
 - Source code: [disini](/soal5/soal5_kill.c)
 - Langkah - langkah:
 	1. Buatlah program C nya terlebih dahulu
