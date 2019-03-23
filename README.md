@@ -61,7 +61,7 @@ Catatan: Tidak boleh menggunakan crontab.
     Catatan:
     - dilarang menggunakan crontab
     - Contoh nama file : makan_sehat1.txt, makan_sehat2.txt, dst
-	###Jawaban:
+	### Jawaban:
 - Source code: [disini](/soal4/soal4.c)
 - Langkah - langkah:
 	1. Buatlah program C nya terlebih dahulu
@@ -83,7 +83,7 @@ Catatan: Tidak boleh menggunakan crontab.
 
 	b. Buatlah program c untuk menghentikan program di atas.
     NB: Dilarang menggunakan crontab dan tidak memakai argumen ketika menjalankan program.
-	###Jawaban:
+	### Jawaban:
 	a.
 - Source code: [disini](/soal5/soal5.c)
 - Langkah - langkah:
