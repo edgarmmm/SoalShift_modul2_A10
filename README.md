@@ -83,9 +83,7 @@ Catatan: Tidak boleh menggunakan crontab.
 
 	b. Buatlah program c untuk menghentikan program di atas.
     NB: Dilarang menggunakan crontab dan tidak memakai argumen ketika menjalankan program.
-
-
-###Jawaban:
+	###Jawaban:
 a.
 - Source code: [disini](/soal5/soal5.c)
 - Langkah - langkah:
